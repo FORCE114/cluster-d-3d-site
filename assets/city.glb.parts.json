@@ -1,67 +1,47 @@
 {
   "file": "city.glb",
-  "bytes": 104603272,
-  "sha256": "aadbe124130cd6978640d61787645b76c9ee1cf12317f1e4b333a4167fa6fe2c",
+  "bytes": 74699960,
+  "sha256": "bb4004ad663fc9dcd52eab9ea79873f295b7065fdc22ed9a16b0da3dd9a1c799",
   "parts": [
     {
       "file": "city.glb.part1",
       "bytes": 9437184,
-      "sha256": "b2d9a691906626e29a50a54e88556367e06eb03c76faac129c75ebfe66b05d4e"
+      "sha256": "0f3ed16313c1b19d712933269e4a6c521522a7cc689ab84feaad644de20045d8"
     },
     {
       "file": "city.glb.part2",
       "bytes": 9437184,
-      "sha256": "c8c01d8e01f527bf153501904eee4d62069ed7365bc2dc07a1f73d0032c0bcad"
+      "sha256": "85023cfa276665aadefb3952a533fa9662405094d766d31d68932d6ff2bc4d74"
     },
     {
       "file": "city.glb.part3",
       "bytes": 9437184,
-      "sha256": "08ef46ef9a6ab10c8cf5d972fe6ecc8842ffa740d284930bec6f8bca07c5967a"
+      "sha256": "93aec5718eb5dfa63a53e29946be3e50f5bffe609929b4a1686229b40c5dc65a"
     },
     {
       "file": "city.glb.part4",
       "bytes": 9437184,
-      "sha256": "1cce0e4aecfaac68595f1e510690ba9f1dc09234e607c5a3276bcdbf65ac8efe"
+      "sha256": "2d3aedb3cdcd8b73492e4e71f884121baca6d6eeb5520e6eb620a75270c36599"
     },
     {
       "file": "city.glb.part5",
       "bytes": 9437184,
-      "sha256": "aa7d2599bf18a0004eb216627cbc3806cf573a9acb5043f8f7788796d79f6b12"
+      "sha256": "bb15c53ec7c22709289496987655df6475be9a78aade40e1f8be9addd61b9f11"
     },
     {
       "file": "city.glb.part6",
       "bytes": 9437184,
-      "sha256": "cbaa4be57c393fe37271287ddd1b2e926d2910788ae87750d3bf4fd24365d3e4"
+      "sha256": "80c0c13ebc4b9e29d2d53656de140d06a009694a56470a8d612a01b284ef95d5"
     },
     {
       "file": "city.glb.part7",
       "bytes": 9437184,
-      "sha256": "8617159b4384230949162c59dc0e7b446bf75753833a41ed4a66817ee66e4ed9"
+      "sha256": "eb9cb31f00744a0e6e4cb57750bcb35e62a71fea69d22d0911373099b9db6bbf"
     },
     {
       "file": "city.glb.part8",
-      "bytes": 9437184,
-      "sha256": "d04d3e943e5e9e7ececc1adcb815a816fcb29183214b34c2775fabf84cba480c"
-    },
-    {
-      "file": "city.glb.part9",
-      "bytes": 9437184,
-      "sha256": "dded923aa519ba5ef23fc6ec52a826d556ba80d8c90fd58af355ab360b494a4d"
-    },
-    {
-      "file": "city.glb.part10",
-      "bytes": 9437184,
-      "sha256": "40f45017c91192d3793e90ef641f7844b184c3860b7b85c3bcfb7c04c9e04e38"
-    },
-    {
-      "file": "city.glb.part11",
-      "bytes": 9437184,
-      "sha256": "01ff506cb2a83ae75510519afca98de10c5d767d4baad4d061b48092920cd681"
-    },
-    {
-      "file": "city.glb.part12",
-      "bytes": 794248,
-      "sha256": "ca2b1a39c49f16d8c9b11e9e462e7c44d191fa2d4e48dd0adafa1be39cac204a"
+      "bytes": 8639672,
+      "sha256": "1e883e01c335e9e9a2bfa776ded47f95254fc3e5a36eb8724dbae20283c3f625"
     }
   ]
 }
