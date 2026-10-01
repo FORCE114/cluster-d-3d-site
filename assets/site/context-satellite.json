@@ -1,0 +1,62 @@
+{
+  "image": "context-satellite.webp",
+  "source_image": "source/satellite-composite-user.webp",
+  "width_px": 1256,
+  "height_px": 706,
+  "metres_per_pixel": 2.6039333973565166,
+  "width_m": 3270.540347079785,
+  "height_m": 1838.3769785337008,
+  "centre_three": [
+    26.102729267984046,
+    0.0,
+    -232.85753318531843
+  ],
+  "rotation_y_deg": 17.300219018063373,
+  "rotation_y_rad": 0.30194578318134624,
+  "corners_three_xz": [
+    [
+      -1808.5341861026513,
+      -624.1673950968017
+    ],
+    [
+      1314.0458127008696,
+      -1596.7558553146678
+    ],
+    [
+      1860.7396446386192,
+      158.45232872616478
+    ],
+    [
+      -1261.8403541649018,
+      1131.040788944031
+    ]
+  ],
+  "registration": {
+    "method": "SIFT + RANSAC similarity against the 2 px/m orthographic site render",
+    "inliers": 77,
+    "residual_px_mean": 0.6982249825946886,
+    "residual_px_max": 2.3017252401590107,
+    "ortho_px_to_sat_px": [
+      [
+        0.18326188276367034,
+        -0.05708048871191157,
+        415.25082133014547
+      ],
+      [
+        0.05708048871191157,
+        0.18326188276367034,
+        292.9815849438028
+      ]
+    ]
+  },
+  "mean_colour_srgb": [
+    0.6093,
+    0.5533,
+    0.5154
+  ],
+  "cleaned": {
+    "script": "source/clean_satellite.py",
+    "inpainted_px": 24877,
+    "note": "red outline everywhere and pasted render outside the model rectangle inpainted (Telea, r=7)"
+  }
+}

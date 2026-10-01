@@ -1,0 +1,546 @@
+{
+  "version": 1,
+  "units": "metres",
+  "coordinates": "Three.js x east, z south; y ground .02m",
+  "source": "User redline screenshot codex-clipboard-abc50058-5c0e-4614-83df-e939fba2ee55.png (2552 x 914)",
+  "method": "Ground-plane homography fitted to 12 pale-yellow plot supporting lines using exact site-layout polygons. Redline endpoints manually recorded in original-resolution screenshot. Not a surveyed boundary.",
+  "line_fit_rms_pixels": 0.242,
+  "homography_world_xz_to_screenshot": [
+    [
+      1.5210859298082278,
+      -0.5772302286511872,
+      1061.6874589716242
+    ],
+    [
+      -0.07639102684843357,
+      1.1043215463837985,
+      306.99221435291474
+    ],
+    [
+      3.656007335711306e-05,
+      -0.0005286505234563301,
+      1.0
+    ]
+  ],
+  "ground_y": 0.02,
+  "segments": [
+    {
+      "id": "west-north-150",
+      "start": [
+        -419.615,
+        -14.137
+      ],
+      "end": [
+        -369.658,
+        3.969
+      ],
+      "inside": [
+        -398,
+        39
+      ],
+      "screenshot_pixels": [
+        [
+          435,
+          326
+        ],
+        [
+          505,
+          345
+        ]
+      ],
+      "length_m": 53.137
+    },
+    {
+      "id": "west-north-revit-1",
+      "start": [
+        -329.587,
+        -17.282
+      ],
+      "end": [
+        -257.265,
+        3.29
+      ],
+      "inside": [
+        -298,
+        78
+      ],
+      "screenshot_pixels": [
+        [
+          572,
+          314
+        ],
+        [
+          676,
+          334
+        ]
+      ],
+      "length_m": 75.19
+    },
+    {
+      "id": "west-north-revit-2",
+      "start": [
+        -233.231,
+        4.952
+      ],
+      "end": [
+        -146.174,
+        36.108
+      ],
+      "inside": [
+        -203,
+        113
+      ],
+      "screenshot_pixels": [
+        [
+          712,
+          334
+        ],
+        [
+          839,
+          367
+        ]
+      ],
+      "length_m": 92.463
+    },
+    {
+      "id": "west-south",
+      "start": [
+        -441.177,
+        79.538
+      ],
+      "end": [
+        -175.396,
+        164.656
+      ],
+      "inside": [
+        -298,
+        78
+      ],
+      "screenshot_pixels": [
+        [
+          366,
+          455
+        ],
+        [
+          772,
+          554
+        ]
+      ],
+      "length_m": 279.079
+    },
+    {
+      "id": "west-east",
+      "start": [
+        -172.82,
+        155.046
+      ],
+      "end": [
+        -141.366,
+        46.157
+      ],
+      "inside": [
+        -203,
+        113
+      ],
+      "screenshot_pixels": [
+        [
+          778,
+          539
+        ],
+        [
+          845,
+          380
+        ]
+      ],
+      "length_m": 113.341
+    },
+    {
+      "id": "east-north-revit-3",
+      "start": [
+        -70.557,
+        11.561
+      ],
+      "end": [
+        14.366,
+        -6.132
+      ],
+      "inside": [
+        5,
+        84
+      ],
+      "screenshot_pixels": [
+        [
+          956,
+          328
+        ],
+        [
+          1083,
+          298
+        ]
+      ],
+      "length_m": 86.747
+    },
+    {
+      "id": "east-north-149",
+      "start": [
+        37.245,
+        13.571
+      ],
+      "end": [
+        117.701,
+        -5.37
+      ],
+      "inside": [
+        86,
+        61
+      ],
+      "screenshot_pixels": [
+        [
+          1117,
+          321
+        ],
+        [
+          1235,
+          290
+        ]
+      ],
+      "length_m": 82.655
+    },
+    {
+      "id": "east-west",
+      "start": [
+        -72.925,
+        17.584
+      ],
+      "end": [
+        -37.291,
+        149.194
+      ],
+      "inside": [
+        5,
+        84
+      ],
+      "screenshot_pixels": [
+        [
+          952,
+          336
+        ],
+        [
+          999,
+          516
+        ]
+      ],
+      "length_m": 136.349
+    },
+    {
+      "id": "east-south-before-access",
+      "start": [
+        -25.545,
+        148.0
+      ],
+      "end": [
+        146.612,
+        103.724
+      ],
+      "inside": [
+        86,
+        61
+      ],
+      "screenshot_pixels": [
+        [
+          1018,
+          513
+        ],
+        [
+          1424,
+          391
+        ]
+      ]
+    },
+    {
+      "id": "east-south-after-access",
+      "start": [
+        154.359,
+        101.731
+      ],
+      "end": [
+        237.017,
+        80.473
+      ],
+      "inside": [
+        86,
+        61
+      ],
+      "screenshot_pixels": [
+        [
+          1018,
+          513
+        ],
+        [
+          1424,
+          391
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "9 red runs preserved. North gaps remain; no new north run above148 and no west run for150 or east run for148.",
+    "Separate red strokes at right west/south corner leave about10m gap; user drawing may intend one corner. Preserve exact endpoints unless visually joined deliberately.",
+    "8 m equipment opening at the existing mixer lane; other red stroke endpoints and deliberate gaps retained."
+  ],
+  "redline_segments": [
+    {
+      "id": "west-north-150",
+      "start": [
+        -419.615,
+        -14.137
+      ],
+      "end": [
+        -369.658,
+        3.969
+      ],
+      "inside": [
+        -398,
+        39
+      ],
+      "screenshot_pixels": [
+        [
+          435,
+          326
+        ],
+        [
+          505,
+          345
+        ]
+      ],
+      "length_m": 53.137
+    },
+    {
+      "id": "west-north-revit-1",
+      "start": [
+        -329.587,
+        -17.282
+      ],
+      "end": [
+        -257.265,
+        3.29
+      ],
+      "inside": [
+        -298,
+        78
+      ],
+      "screenshot_pixels": [
+        [
+          572,
+          314
+        ],
+        [
+          676,
+          334
+        ]
+      ],
+      "length_m": 75.19
+    },
+    {
+      "id": "west-north-revit-2",
+      "start": [
+        -233.231,
+        4.952
+      ],
+      "end": [
+        -146.174,
+        36.108
+      ],
+      "inside": [
+        -203,
+        113
+      ],
+      "screenshot_pixels": [
+        [
+          712,
+          334
+        ],
+        [
+          839,
+          367
+        ]
+      ],
+      "length_m": 92.463
+    },
+    {
+      "id": "west-south",
+      "start": [
+        -441.177,
+        79.538
+      ],
+      "end": [
+        -175.396,
+        164.656
+      ],
+      "inside": [
+        -298,
+        78
+      ],
+      "screenshot_pixels": [
+        [
+          366,
+          455
+        ],
+        [
+          772,
+          554
+        ]
+      ],
+      "length_m": 279.079
+    },
+    {
+      "id": "west-east",
+      "start": [
+        -172.82,
+        155.046
+      ],
+      "end": [
+        -141.366,
+        46.157
+      ],
+      "inside": [
+        -203,
+        113
+      ],
+      "screenshot_pixels": [
+        [
+          778,
+          539
+        ],
+        [
+          845,
+          380
+        ]
+      ],
+      "length_m": 113.341
+    },
+    {
+      "id": "east-north-revit-3",
+      "start": [
+        -70.557,
+        11.561
+      ],
+      "end": [
+        14.366,
+        -6.132
+      ],
+      "inside": [
+        5,
+        84
+      ],
+      "screenshot_pixels": [
+        [
+          956,
+          328
+        ],
+        [
+          1083,
+          298
+        ]
+      ],
+      "length_m": 86.747
+    },
+    {
+      "id": "east-north-149",
+      "start": [
+        37.245,
+        13.571
+      ],
+      "end": [
+        117.701,
+        -5.37
+      ],
+      "inside": [
+        86,
+        61
+      ],
+      "screenshot_pixels": [
+        [
+          1117,
+          321
+        ],
+        [
+          1235,
+          290
+        ]
+      ],
+      "length_m": 82.655
+    },
+    {
+      "id": "east-west",
+      "start": [
+        -72.925,
+        17.584
+      ],
+      "end": [
+        -37.291,
+        149.194
+      ],
+      "inside": [
+        5,
+        84
+      ],
+      "screenshot_pixels": [
+        [
+          952,
+          336
+        ],
+        [
+          999,
+          516
+        ]
+      ],
+      "length_m": 136.349
+    },
+    {
+      "id": "east-south",
+      "start": [
+        -25.545,
+        148.0
+      ],
+      "end": [
+        237.017,
+        80.473
+      ],
+      "inside": [
+        86,
+        61
+      ],
+      "screenshot_pixels": [
+        [
+          1018,
+          513
+        ],
+        [
+          1424,
+          391
+        ]
+      ],
+      "length_m": 271.107
+    }
+  ],
+  "openings": [
+    {
+      "id": "mixer-service-road",
+      "width_m": 8,
+      "center": [
+        150.48544591133003,
+        102.72761511165217
+      ],
+      "start": [
+        146.612,
+        103.724
+      ],
+      "end": [
+        154.359,
+        101.731
+      ],
+      "reason": "Preserve passage along the existing moving concrete mixer service lane."
+    }
+  ]
+}
